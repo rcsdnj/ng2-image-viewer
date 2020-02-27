@@ -3,6 +3,7 @@
     "baseUrl": "./src",
     "experimentalDecorators": true,
     "moduleResolution": "node",
+    "importHelpers": true,
     "rootDir": "./src",
     "lib": [
       "es2015",
